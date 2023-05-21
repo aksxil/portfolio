@@ -138,9 +138,9 @@ function cardShow() {
         })
 }
 
-// revealToSpan();
-// valueSetters()
-// loaderAnim();
+revealToSpan();
+valueSetters()
+loaderAnim();
 locoin();
 cardShow();
 
